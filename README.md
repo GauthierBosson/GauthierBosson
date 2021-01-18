@@ -7,7 +7,7 @@ I'm currently searching a new job opportunity, so if you like my profile don't h
 
 - Doing my portfolio (will be out Soon™)
 - Currently working on a project with react-query, trying to master it !
-- Things I'll do next : improving knowledge of TypeScript, learn GraphQL.
+- Things I'll do next : improving knowledge of TypeScript and GraphQL.
 
 
 <!--
