@@ -1,11 +1,9 @@
 ### Hi there, I'm Gauthier 👋
 
 I'm a web developer based in Geneva, mainly doing front-end and React stuff !<br />
-I'm currently searching a new job opportunity, so if you like my profile don't hesitate to send me an email ! 😄
 
 ## Work in progress 🌱
 
-- Doing my portfolio (will be out Soon™)
 - Currently working on a project with react-query, trying to master it !
 - Things I'll do next : improving knowledge of TypeScript and GraphQL.
 
