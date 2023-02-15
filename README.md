@@ -1,2 +1,2 @@
-Fullstack Web dev (mainly React, TS, PHP) based in Geneva
+Front-end Web dev (mainly React, JS, TS) based in Geneva
 
